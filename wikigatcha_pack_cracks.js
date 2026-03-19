@@ -17,7 +17,7 @@ function getPackOpenDelays(min, max) {
   return Math.floor(Math.random() * (maxFloored - minCeiled + 1)) + minCeiled;
 }
 
-// step 4, paste openPacks() function into your console
+// step 4: paste openPacks() function into your console
 /**
  * opens packs on a timer
  */
